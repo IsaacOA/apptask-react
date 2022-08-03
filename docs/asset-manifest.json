@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c65e8ea1.css",
+    "main.js": "/static/js/main.f24598d4.js",
+    "static/media/hyper-x-logo.png": "/static/media/hyper-x-logo.f7e65524d74633f542bf.png",
+    "index.html": "/index.html",
+    "main.c65e8ea1.css.map": "/static/css/main.c65e8ea1.css.map",
+    "main.f24598d4.js.map": "/static/js/main.f24598d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c65e8ea1.css",
+    "static/js/main.f24598d4.js"
+  ]
+}
